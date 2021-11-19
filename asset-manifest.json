@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48b762b5.chunk.css",
+    "main.js": "/static/js/main.ee9d20d8.chunk.js",
+    "main.js.map": "/static/js/main.ee9d20d8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a93e1cdb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a93e1cdb.js.map",
+    "static/css/2.eafe7a18.chunk.css": "/static/css/2.eafe7a18.chunk.css",
+    "static/js/2.2b7c1742.chunk.js": "/static/js/2.2b7c1742.chunk.js",
+    "static/js/2.2b7c1742.chunk.js.map": "/static/js/2.2b7c1742.chunk.js.map",
+    "static/js/3.52b25198.chunk.js": "/static/js/3.52b25198.chunk.js",
+    "static/js/3.52b25198.chunk.js.map": "/static/js/3.52b25198.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.eafe7a18.chunk.css.map": "/static/css/2.eafe7a18.chunk.css.map",
+    "static/css/main.48b762b5.chunk.css.map": "/static/css/main.48b762b5.chunk.css.map",
+    "static/js/2.2b7c1742.chunk.js.LICENSE.txt": "/static/js/2.2b7c1742.chunk.js.LICENSE.txt",
+    "static/media/pannellum.css": "/static/media/sprites.c08944fe.svg",
+    "static/media/farm_land_360_view.022505ec.jpg": "/static/media/farm_land_360_view.022505ec.jpg",
+    "static/media/fertilizer.417d0e1a.jpg": "/static/media/fertilizer.417d0e1a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a93e1cdb.js",
+    "static/css/2.eafe7a18.chunk.css",
+    "static/js/2.2b7c1742.chunk.js",
+    "static/css/main.48b762b5.chunk.css",
+    "static/js/main.ee9d20d8.chunk.js"
+  ]
+}
